@@ -5,24 +5,23 @@ version: 1.1
 language: de
 narrator: German Male
 
-comment: Selbstlernkurs nach Abschnitt 6.2 des Buchkapitels.
-         Thema: Moodle-Kurse lesen lernen – welche Botschaften digitale Räume senden.
-         Zielgruppe: Lehrkräfte, Fort- und Weiterbildner:innen, Schulleitungen, Referendar:innen.
-         Schwerpunkt: Moodle-Kurse als pädagogische Erfahrungsräume.
+comment: Selbstlernkurs nach Abschnitt 6.1 „Der Eigensinn der Sozialdidaktik“.
+         Thema: Der Eigensinn sozialpädagogischer Bildung – von der Methode zur professionellen Urteilsfähigkeit.
+         Zielgruppe: Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen und Lehramtsstudierende.
          DQR Niveau 6.
-         Version 1.1 mit Bildhinweisen und Bildbeschreibungen für alle Module.
+         Version 1.1 mit Bildbeschreibungen für alle Module.
 
 logo:
 
 link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap
 -->
 
-# Moodle-Kurse lesen lernen
+# Der Eigensinn sozialpädagogischer Bildung
 
-## Welche Botschaften digitale Räume senden
+## Von der Methode zur professionellen Urteilsfähigkeit
 
-> **Selbstlernkurs nach Abschnitt 6.2: „Die Doppelte Vermittlungspraxis digital gedacht“**  
-> Für Lehrkräfte, Fort- und Weiterbildner:innen, Schulleitungen und Referendar:innen
+> **Selbstlernkurs nach Abschnitt 6.1: „Der Eigensinn der Sozialdidaktik“**  
+> Für Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen und Lehramtsstudierende
 
 ---
 
@@ -30,13 +29,13 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 
 | Angabe | Information |
 |--------|-------------|
-| **Anknüpfungspunkt** | Nach Abschnitt 6.2 „Die Doppelte Vermittlungspraxis digital gedacht“ |
-| **Zielgruppe** | Lehrkräfte, Fort- und Weiterbildner:innen, Schulleitungen, Referendar:innen |
+| **Anknüpfungspunkt** | Nach Abschnitt 6.1 „Der Eigensinn der Sozialdidaktik“ |
+| **Zielgruppe** | Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen, Lehramtsstudierende |
 | **Zeitaufwand** | ca. 60–75 Minuten |
 | **Niveau** | DQR Stufe 6 |
-| **Format** | Selbstlernkurs mit Kursvergleich, Analyseaufgaben, Kriterienraster und Transferauftrag |
-| **Benötigtes Material** | Ein eigener Moodle-Kurs oder ein Kursentwurf, Notizen aus dem Buchkapitel, optional Screenshot der Kursstartseite |
-| **Zentrales Produkt** | Ein geprüfter Moodle-Kurs mit drei begründeten Veränderungsschritten |
+| **Format** | Selbstlernkurs mit Fallarbeit, Theorieimpulsen, Analyseaufgaben und Reflexion |
+| **Benötigtes Material** | Notizen aus dem Buchkapitel, Schreibmöglichkeit, optional eigener Unterrichts- oder Praxiserfahrungsfall |
+| **Zentrales Produkt** | Eine rekonstruierte pädagogische Situation mit professioneller Irritationsreflexion |
 
 ---
 
@@ -46,615 +45,487 @@ Nach Abschluss dieses Selbstlernkurses können Sie:
 
 **Wissen und Verstehen**
 
-1. Moodle-Kurse als pädagogische Erfahrungsräume beschreiben,
-2. erklären, warum digitale Kursstrukturen implizite Botschaften über Lernen, Beteiligung, Kontrolle und Professionalität senden,
-3. die doppelte Praxis sozialpädagogischer Bildung auf digitale Lernräume beziehen.
+1. den Eigensinn sozialpädagogischer Bildung fachlich erläutern,
+2. begründen, warum sozialpädagogisches Handeln nicht vollständig standardisierbar ist,
+3. Beziehung, Unsicherheit, Deutungsmuster, Ambiguitätstoleranz, Machtverhältnisse und professionelle Subjektentwicklung als Kernfragen sozialdidaktischer Arbeit einordnen.
 
 **Instrumentale und systemische Kompetenzen**
 
-4. Moodle-Kurse anhand impliziter Lernbotschaften analysieren,
-5. zwischen einem digitalen Aktenordner und einem sozialdidaktischen Lernraum unterscheiden,
-6. Kriterien zur Prüfung eines eigenen Moodle-Kurses anwenden.
+4. eine pädagogische Situation differenziert rekonstruieren,
+5. subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen in einer Situation identifizieren,
+6. zwischen methodischer Planbarkeit und professioneller Urteilsfähigkeit unterscheiden.
 
 **Kommunikative und reflexive Kompetenzen**
 
-7. eigene Kursentscheidungen fachlich begründen,
-8. Kolleg:innen gegenüber sichtbar machen, welche Lernkultur ein Kursraum nahelegt,
-9. drei realistische Veränderungsschritte formulieren, die Orientierung, Austausch und professionelle Entwicklung stärken.
+7. eigene Deutungsmuster kritisch befragen,
+8. Ambivalenzen pädagogischer Situationen fachlich begründet beschreiben,
+9. eine irritierte professionelle Annahme formulieren und daraus einen nächsten Entwicklungsschritt ableiten.
 
 ---
 
 ## ⏱️ Zeitplanung
 
 ```ascii
-Modul 0: Einstieg – Moodle-Kurse senden Botschaften              8 min
-Modul 1: Theorieimpuls – Digitale Räume als Erfahrungsräume     12 min
-Modul 2: Kursbeispiel A – Der digitale Aktenordner              15 min
-Modul 3: Kursbeispiel B – Der sozialdidaktische Lernraum        15 min
-Modul 4: Eigenanalyse – Den eigenen Moodle-Kurs lesen           20 min
-Abschluss: Drei Veränderungsschritte festlegen                  10 min
-────────────────────────────────────────────────────────────────────
-Gesamt:                                                ca. 60–75 min
+Modul 0: Einstieg – Warum Methoden nicht reichen                   8 min
+Modul 1: Fallarbeit – Eine pädagogische Situation lesen            15 min
+Modul 2: Theorieimpuls – Der Eigensinn sozialpädagogischer Bildung 15 min
+Modul 3: Analyse – Subjekt, Theorie, Institution                   20 min
+Modul 4: Reflexion – Professionelle Annahmen irritieren            15 min
+Abschluss: Transfer in Lehre, Fortbildung und Studium              7 min
+──────────────────────────────────────────────────────────────────────
+Gesamt:                                                   ca. 60–75 min
 ````
 
 ---
 
-# Modul 0: Einstieg – Moodle-Kurse senden Botschaften
+# Modul 0: Einstieg – Warum Methoden nicht reichen
 
-> **🖼️ Bildhinweis für Modul 0**
-> **Dateiname:** `Modul0.png`
-> **Bildfunktion:** Das Bild eröffnet den Kurs. Es soll den Grundgedanken sichtbar machen, dass Moodle-Kurse nicht neutral sind, sondern durch Struktur, Aufgabenlogik, Sprache und Feedback pädagogische Botschaften erzeugen.
-> **Bildbeschreibung / Alttext:** Eine Lehrkraft betrachtet zwei Moodle-Kursräume nebeneinander. Links wirkt der Kurs wie eine Dateiablage mit vielen PDF-Symbolen, rechts wie ein strukturierter Lernraum mit Orientierung, Austausch, Reflexion und Feedback. Über beiden Kursen stehen unsichtbare Botschaften wie „Arbeite Material ab“, „Kontrolle zählt“, „Steuere dein Lernen“, „Tausche dich aus“ und „Entwickle professionelle Urteilsfähigkeit“. Comic-Stil, ruhig, klar und professionell.
-
-![Illustration Modul 0: Eine Lehrkraft betrachtet zwei Moodle-Kursräume nebeneinander. Links wirkt der Kurs wie eine Dateiablage mit vielen PDF-Symbolen, rechts wie ein strukturierter Lernraum mit Orientierung, Austausch, Reflexion und Feedback. Über beiden Kursen stehen unsichtbare Botschaften wie „Arbeite Material ab“, „Kontrolle zählt“, „Steuere dein Lernen“, „Tausche dich aus“ und „Entwickle professionelle Urteilsfähigkeit“. Comic-Stil, ruhig, klar und professionell.](Modul0.png "Modul 0 – Moodle-Kurse senden Botschaften")
+![Illustration Modul 0: Eine Lehrkraft steht vor einem sorgfältig geplanten Methodenplan. Daneben ist eine pädagogische Situation mit offenen Fragen sichtbar: Beziehung, Unsicherheit, Macht, Institution und Verantwortung. Der Kontrast zeigt, dass Methoden Struktur geben, aber professionelle Urteilsfähigkeit nicht ersetzen. Comic-Stil, ruhig, klar und professionell.](Modul0.png "Modul 0 – Warum Methoden nicht reichen")
 
 ## 0.1 Ausgangspunkt
 
-Moodle-Kurse sind nicht nur digitale Ablageorte. Sie erzeugen Erfahrungen. Schon die erste Kursseite sendet Botschaften:
+Sozialpädagogische Bildung lässt sich nicht auf Methoden, Materialien oder Ablaufschemata reduzieren. Methoden können hilfreich sein. Sie schaffen Struktur, eröffnen Zugänge und sichern Arbeitsprozesse. Sie lösen aber nicht das Grundproblem sozialpädagogischen Handelns.
 
-* Was zählt hier?
-* Wer ist aktiv?
-* Wer entscheidet?
-* Wie wird Qualität sichtbar?
-* Ist Austausch vorgesehen oder nur Abgabe?
-* Wird Lernen als Kontrolle, Selbststeuerung, Materialbearbeitung oder professionelle Entwicklung gerahmt?
+In sozialpädagogischen Situationen begegnen Fachkräfte Menschen, deren Verhalten nicht vollständig vorhersagbar ist. Kinder, Jugendliche, Familien, Gruppen und Teams handeln nicht nach didaktischen Ablaufplänen. Sie bringen Erfahrungen, Bedürfnisse, Verletzlichkeiten, Widerstände, Ressourcen und eigene Deutungen mit.
 
-Diese Botschaften stehen selten ausdrücklich im Kurs. Sie entstehen durch Struktur, Sprache, Reihenfolge, Aufgabenlogik, Sichtbarkeit, Feedback und Beteiligungsmöglichkeiten.
+Deshalb entsteht sozialpädagogische Professionalität nicht allein dadurch, dass jemand eine Methode korrekt anwendet. Sie entsteht dort, wo Personen Situationen deuten, Unsicherheit aushalten, Machtverhältnisse reflektieren und fachlich begründete Entscheidungen treffen.
 
 > **📝 Merke**
 >
-> Ein Moodle-Kurs spricht, auch wenn niemand spricht. Seine Ordnung, Sprache und Aufgabenlogik zeigen, welches Verständnis von Lernen, Verantwortung und Professionalität im Raum steht.
+> Der Eigensinn sozialpädagogischer Bildung liegt darin, dass sie nicht nur Können, Wissen oder Methoden trainiert. Sie zielt auf professionelle Urteilsfähigkeit in offenen, widersprüchlichen und beziehungsabhängigen Situationen.
 
 ---
 
-## 0.2 Erste Wahrnehmungsübung
+## 0.2 Erste Irritation
 
-Denken Sie an einen Moodle-Kurs, den Sie gut kennen. Stellen Sie sich vor, eine neue Person öffnet diesen Kurs zum ersten Mal.
+Lesen Sie die folgende Aussage:
 
-Beantworten Sie spontan:
+> „Wenn die Methode gut geplant ist, gelingt auch die pädagogische Situation.“
 
-1. Was fällt zuerst ins Auge?
-2. Was ist sofort verständlich?
-3. Wo entsteht Suchbewegung?
-4. Welche Handlung wird nahegelegt?
-5. Welche Botschaft über Lernen sendet der Kurs?
+Diese Aussage klingt zunächst plausibel. Sie ist aber sozialpädagogisch zu kurz. Eine Methode kann sorgfältig vorbereitet sein und dennoch in einer konkreten Situation scheitern, weil Beziehung, Macht, biografische Erfahrungen, institutionelle Regeln oder unausgesprochene Konflikte anders wirken als erwartet.
 
 ---
 
-## 0.3 Lernbotschaften digitaler Räume
+## 0.3 Reflexionsfrage
 
-Moodle-Kurse können sehr unterschiedliche Lernbotschaften erzeugen.
-
-| Lernbotschaft                             | Typische Kursmerkmale                                          |
-| ----------------------------------------- | -------------------------------------------------------------- |
-| **Lernen als Materialbearbeitung**        | Viele Dateien, wenig Kontext, Aufgaben als Abgabeorte          |
-| **Lernen als Kontrolle**                  | Tests, Fristen, Bewertung und Nachweise dominieren             |
-| **Lernen als Selbststeuerung**            | Klare Lernpfade, Wahlmöglichkeiten, transparente Ziele         |
-| **Lernen als Austausch**                  | Foren, Peer-Feedback, kollaborative Aufgaben, Rückfragen       |
-| **Lernen als professionelle Entwicklung** | Fallarbeit, Theoriebezug, Reflexion, begründete Entscheidungen |
-
-Keine dieser Botschaften ist automatisch falsch. Problematisch wird es, wenn ein Kurs ungewollt eine Botschaft sendet, die dem fachlichen Anspruch widerspricht.
+> **💭 Reflexionsfrage 0.1**
+>
+> Denken Sie an eine pädagogische Situation, in der eine gut geplante Methode nicht die erwartete Wirkung hatte.
+> Notieren Sie kurz:
+>
+> 1. Was war geplant?
+> 2. Was geschah tatsächlich?
+> 3. Welche Erklärung lag zunächst nahe?
+> 4. Welche tieferliegende Frage wurde dadurch sichtbar?
 
 ---
 
 ## ✅ Selbstüberprüfung Modul 0
 
-Welche Aussage trifft den Kern dieses Kurses am besten?
+Welche Aussage trifft den Kern dieses Kurses am genauesten?
 
-* [( )] Ein Moodle-Kurs ist neutral, solange alle Dateien korrekt hochgeladen sind.
-* [(X)] Ein Moodle-Kurs sendet durch Struktur, Aufgaben, Sprache und Rückmeldelogik implizite Botschaften über Lernen.
-* [( )] Moodle-Kurse sollten möglichst viele Aktivitäten enthalten, damit sie modern wirken.
-* [( )] Die Qualität eines Moodle-Kurses erkennt man vor allem an der Anzahl digitaler Materialien.
-
----
-
-# Modul 1: Theorieimpuls – Digitale Räume als pädagogische Erfahrungsräume
-
-> **🖼️ Bildhinweis für Modul 1**
-> **Dateiname:** `Modul1.png`
-> **Bildfunktion:** Das Bild macht deutlich, dass ein Moodle-Kurs nicht nur aus Funktionen besteht, sondern Erfahrungen erzeugt. Die Ebenen Struktur, Sprache, Aufgabe, Interaktion, Feedback, Kontrolle und Verantwortung sollen sichtbar verbunden sein.
-> **Bildbeschreibung / Alttext:** Eine Schulleitung, eine Lehrkraft, eine Fortbildnerin und ein Referendar stehen vor einer großen Moodle-Tafel. Die Tafel zeigt einen digitalen Kursraum als Erfahrungsraum mit den Ebenen Struktur, Sprache, Aufgabe, Interaktion, Feedback, Kontrolle und Verantwortung. Pfeile verbinden Kursentscheidungen mit möglichen Lernerfahrungen der Teilnehmenden. Comic-Stil, strukturiert, theoriebezogen und praxisnah.
-
-![Illustration Modul 1: Eine Schulleitung, eine Lehrkraft, eine Fortbildnerin und ein Referendar stehen vor einer großen Moodle-Tafel. Die Tafel zeigt einen digitalen Kursraum als Erfahrungsraum mit den Ebenen Struktur, Sprache, Aufgabe, Interaktion, Feedback, Kontrolle und Verantwortung. Pfeile verbinden Kursentscheidungen mit möglichen Lernerfahrungen der Teilnehmenden. Comic-Stil, strukturiert, theoriebezogen und praxisnah.](Modul1.png "Modul 1 – Digitale Räume als pädagogische Erfahrungsräume")
-
-## 1.1 Was heißt: Moodle als Erfahrungsraum lesen?
-
-Ein Moodle-Kurs wird häufig von seiner Funktion her betrachtet:
-
-* Wo lege ich Materialien ab?
-* Wo stelle ich Aufgaben ein?
-* Wo sammle ich Abgaben?
-* Wo gebe ich Feedback?
-* Wo dokumentiere ich Nachweise?
-
-Das ist notwendig, aber nicht ausreichend. Sozialdidaktisch betrachtet ist Moodle auch ein Erfahrungsraum. Lernende erleben dort:
-
-* ob sie Orientierung erhalten oder suchen müssen,
-* ob sie als aktive Subjekte angesprochen werden,
-* ob ihre Erfahrungen einbezogen werden,
-* ob Theorie als Werkzeug für Verstehen erscheint,
-* ob Austausch gewünscht oder nur geduldet ist,
-* ob Fehler als Lernanlass oder als Defizit erscheinen,
-* ob professionelle Verantwortung sichtbar wird.
+* [( )] Sozialpädagogische Bildung gelingt vor allem durch möglichst präzise Methodenpläne.
+* [( )] Methoden sind im sozialpädagogischen Unterricht unwichtig.
+* [(X)] Methoden sind hilfreich, reichen aber nicht aus, weil sozialpädagogische Situationen durch Beziehung, Deutung, Unsicherheit, Macht und Verantwortung geprägt sind.
+* [( )] Professionelle Urteilsfähigkeit entsteht automatisch durch Praxiserfahrung.
 
 ---
 
-## 1.2 Die doppelte Praxis digital gedacht
+# Modul 1: Fallarbeit – Eine pädagogische Situation lesen
 
-In der sozialpädagogischen Bildung geht es nie nur um den Inhalt. Die Art, wie gelernt wird, ist selbst bedeutsam. Wer später pädagogische Situationen begleitet, erlebt im Bildungsgang selbst Formen von Beziehung, Beteiligung, Struktur, Rückmeldung, Macht und Verantwortung.
+![Illustration Modul 1: Eine Fachschulklasse arbeitet an einer Fallanalyse. Eine Kleingruppe diskutiert, während ein Studierender zurückgelehnt sitzt, auf sein Handy schaut und den Sinn der Aufgabe infrage stellt. Die Lehrkraft beobachtet die Situation aufmerksam und hält mehrere mögliche Reaktionen auf Karten fest. Comic-Stil, sachlich, leicht zugespitzt und reflexionsorientiert.](Modul1.png "Modul 1 – Eine pädagogische Situation lesen")
 
-Digitale Räume verstärken diese doppelte Logik:
+## 1.1 Fallvignette: „Er macht einfach nicht mit“
 
-```ascii
-Was im Kurs thematisiert wird
-        ↕
-Wie der Kurs selbst gestaltet ist
-```
+In einer Fachschulklasse wird eine Unterrichtseinheit zum Thema „Pädagogische Beziehungsgestaltung“ durchgeführt. Die Lehrkraft hat eine Gruppenarbeit vorbereitet. Die Studierenden sollen eine kurze Fallbeschreibung aus einer Kita analysieren und anschließend in Kleingruppen eine pädagogische Reaktion begründen.
 
-Beispiel:
+Während der Arbeitsphase beteiligt sich ein Studierender, nennen wir ihn Milan, kaum. Er sitzt zurückgelehnt, schaut immer wieder auf sein Handy und sagt schließlich:
 
-Ein Kurs behandelt Partizipation, ist aber vollständig als einseitige Materialabfolge aufgebaut. Dann entsteht ein Widerspruch zwischen Inhalt und Lernerfahrung.
+> „Ganz ehrlich, solche Fälle kann man doch nicht in Gruppenarbeit lösen. In der Praxis macht sowieso jede Einrichtung ihr eigenes Ding.“
 
-Ein Kurs behandelt professionelle Beziehungsgestaltung, bietet aber keine sichtbaren Orte für Rückfrage, Dialog oder Feedback. Dann bleibt Beziehung als Thema abstrakt.
+Die Lehrkraft reagiert irritiert. Sie hatte die Methode bewusst gewählt, damit Perspektivwechsel entstehen. Einige Studierende wirken genervt. Eine Kommilitonin sagt:
 
-Ein Kurs behandelt Reflexion, enthält aber nur Abgabeaufgaben ohne Rückmelde- oder Denkraum. Dann wird Reflexion formalisiert, aber nicht als professionelle Praxis erfahrbar.
+> „Dann mach halt nicht mit. Wir müssen das ja irgendwie fertigkriegen.“
+
+Die Lehrkraft überlegt, ob sie Milan direkt zur Mitarbeit auffordern, die Gruppe neu zusammensetzen oder die Situation zunächst laufen lassen soll.
 
 ---
 
-## 1.3 Fünf Lesarten eines Moodle-Kurses
+## 1.2 Erste Deutung
 
-| Lesart                          | Leitfrage                                                                      |
-| ------------------------------- | ------------------------------------------------------------------------------ |
-| **Strukturelle Lesart**         | Wie ist der Kurs aufgebaut und wie schnell entsteht Orientierung?              |
-| **Sprachliche Lesart**          | Wie werden Lernende angesprochen und welche Erwartungen werden formuliert?     |
-| **Aufgabenbezogene Lesart**     | Welche Lernhandlungen werden nahegelegt?                                       |
-| **Interaktionsbezogene Lesart** | Wo entstehen Austausch, Rückfragen, Peer-Arbeit und Perspektivwechsel?         |
-| **Professionelle Lesart**       | Welche fachliche Urteilsbildung oder Verantwortungsübernahme wird vorbereitet? |
+Spontan könnte man sagen:
+
+* Milan verweigert die Mitarbeit.
+* Die Methode passt nicht zur Gruppe.
+* Die Lehrkraft muss klarer steuern.
+* Die Aufgabe war nicht motivierend genug.
+* Die Gruppe braucht verbindlichere Arbeitsregeln.
+
+Alle diese Deutungen können etwas treffen. Sozialdidaktisch interessant wird der Fall aber erst, wenn wir nicht zu schnell entscheiden.
 
 > **📝 Merke**
 >
-> Die zentrale Frage lautet nicht nur: „Ist der Kurs vollständig?“
-> Die präzisere Frage lautet: „Welche Erfahrung von Lernen und Professionalität ermöglicht dieser Kurs?“
+> Professionelle Urteilsfähigkeit beginnt nicht mit der schnellen Lösung, sondern mit einer sorgfältigen Rekonstruktion der Situation.
 
 ---
 
-## 1.4 Sortieraufgabe: Welche Botschaft sendet der Kurs?
+## 1.3 Analyseauftrag: Was sehen Sie?
 
-Ordnen Sie die Kursmerkmale einer Lernbotschaft zu.
+Bearbeiten Sie die Fallvignette zunächst ohne Theoriebegriffe. Beschreiben Sie nur, was sichtbar wird.
 
-| Kursmerkmal                                                                               | Lernbotschaft                             |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------- |
-| Zehn PDFs stehen ohne Einleitung untereinander.                                           | [[Lernen als Materialbearbeitung]]        |
-| Der Kurs beginnt mit „Bearbeiten Sie bis Freitag alle Tests. Drei Versuche sind erlaubt.“ | [[Lernen als Kontrolle]]                  |
-| Jede Woche enthält Ziel, Zeitrahmen, Aufgabe, Material und Reflexionsfrage.               | [[Lernen als Selbststeuerung]]            |
-| Nach der Fallarbeit geben Studierende sich entlang von Kriterien Rückmeldung.             | [[Lernen als Austausch]]                  |
-| Am Ende begründen Lernende eine pädagogische Entscheidung in einer Fallsituation.         | [[Lernen als professionelle Entwicklung]] |
-
----
-
-## ✅ Selbstüberprüfung Modul 1
-
-Welche Aussage beschreibt die doppelte Logik digitaler Kursräume am besten?
-
-* [( )] Digitale Kurse bilden nur die analoge Unterrichtsplanung ab.
-* [( )] Entscheidend ist, dass alle Materialien jederzeit verfügbar sind.
-* [(X)] Digitale Kursräume zeigen nicht nur Inhalte, sondern lassen Lernende eine bestimmte Form von Lernen, Beteiligung und Verantwortung erfahren.
-* [( )] Digitale Kursräume sind besonders dann gelungen, wenn sie möglichst automatisiert funktionieren.
+| Beobachtungsebene                                    | Ihre Notizen |
+| ---------------------------------------------------- | ------------ |
+| Was tut Milan sichtbar?                              |              |
+| Was sagt Milan wörtlich?                             |              |
+| Wie reagiert die Gruppe?                             |              |
+| Wie reagiert die Lehrkraft innerlich oder äußerlich? |              |
+| Welche Situation entsteht im Raum?                   |              |
+| Welche Entscheidung steht an?                        |              |
 
 ---
 
-# Modul 2: Kursbeispiel A – Der digitale Aktenordner
+## 1.4 Multiple-Choice-Frage
 
-> **🖼️ Bildhinweis für Modul 2**
-> **Dateiname:** `Modul2.png`
-> **Bildfunktion:** Das Bild soll den digitalen Aktenordner als problematische Kurslogik zuspitzen. Wichtig ist nicht, Dateien grundsätzlich abzuwerten, sondern sichtbar zu machen, dass Material ohne Lernlogik eine schwache pädagogische Botschaft sendet.
-> **Bildbeschreibung / Alttext:** Ein Moodle-Kurs wird als überfüllter digitaler Aktenordner dargestellt. Auf dem Bildschirm liegen viele Dateien, Ordner, Tests und Abgabeaufgaben ohne klare Reihenfolge. Eine Lehrkraft wirkt unsicher, während Teilnehmende fragen: „Was ist wichtig?“, „Was sollen wir zuerst tun?“ und „Wozu dient diese Aufgabe?“ Comic-Stil, sachlich, leicht zugespitzt und analytisch.
+Welche Deutung wäre in dieser frühen Analysephase problematisch?
 
-![Illustration Modul 2: Ein Moodle-Kurs wird als überfüllter digitaler Aktenordner dargestellt. Auf dem Bildschirm liegen viele Dateien, Ordner, Tests und Abgabeaufgaben ohne klare Reihenfolge. Eine Lehrkraft wirkt unsicher, während Teilnehmende fragen: „Was ist wichtig?“, „Was sollen wir zuerst tun?“ und „Wozu dient diese Aufgabe?“ Comic-Stil, sachlich, leicht zugespitzt und analytisch.](Modul2.png "Modul 2 – Der digitale Aktenordner")
-
-## 2.1 Kursbeispiel A
-
-Stellen Sie sich folgenden Moodle-Kurs vor:
-
-```ascii
-Kurs: Pädagogische Beziehungen gestalten
-
-Abschnitt 1: Material
-- Bindungstheorie.pdf
-- Nähe_Distanz_Text.pdf
-- Beobachtungsbogen.docx
-- Video_Link_1
-- Präsentation_Unterricht.pptx
-
-Abschnitt 2: Aufgaben
-- Aufgabe 1: Text lesen
-- Aufgabe 2: Fall bearbeiten
-- Aufgabe 3: Reflexion hochladen
-
-Abschnitt 3: Test
-- Selbsttest Beziehung
-- Test Wiederholung
-
-Abschnitt 4: Abgabe
-- Endabgabe
-```
-
-Auf den ersten Blick ist der Kurs nicht leer. Es gibt Material, Aufgaben, Tests und Abgabeorte. Technisch ist vieles vorhanden. Dennoch sendet der Kurs eine problematische Botschaft.
+* [( )] „Milan beteiligt sich aktuell nicht sichtbar an der Gruppenarbeit.“
+* [( )] „Seine Aussage stellt den Sinn der Aufgabe infrage.“
+* [(X)] „Milan ist unmotiviert und muss stärker kontrolliert werden.“
+* [( )] „Die Lehrkraft steht vor einer Entscheidung, wie sie mit der Situation weiterarbeitet.“
 
 ---
 
-## 2.2 Implizite Botschaften dieses Kursraums
+## 1.5 Zwischenreflexion
 
-| Kursmerkmal                                           | Mögliche Botschaft                                                    |
-| ----------------------------------------------------- | --------------------------------------------------------------------- |
-| Materialien stehen am Anfang ohne Einordnung.         | „Lernen heißt: Dateien abarbeiten.“                                   |
-| Aufgaben sind nach Nummern sortiert, nicht nach Sinn. | „Folge der Reihenfolge, ohne den Zusammenhang zwingend zu verstehen.“ |
-| Tests erscheinen früh und sichtbar.                   | „Kontrolle ist zentral.“                                              |
-| Austausch ist nicht eingeplant.                       | „Lernen geschieht individuell und still.“                             |
-| Reflexion wird als Upload organisiert.                | „Reflexion ist ein Produkt, das abgegeben wird.“                      |
-| Fallarbeit ist vorhanden, aber nicht gerahmt.         | „Praxisbezug ist ein Zusatz, nicht der Ausgangspunkt.“                |
-
----
-
-## 2.3 Sozialdidaktische Diagnose
-
-Das Problem dieses Kurses besteht nicht darin, dass Materialien vorhanden sind. Das Problem besteht darin, dass der Kurs seine pädagogische Logik nicht sichtbar macht.
-
-Lernende können möglicherweise erkennen, **was** zu tun ist. Sie erkennen aber nicht zuverlässig:
-
-* warum diese Reihenfolge sinnvoll ist,
-* welche berufliche Situation im Zentrum steht,
-* wie Theorie beim Verstehen hilft,
-* wo Austausch fachlich gebraucht wird,
-* welche Verantwortung am Ende begründet werden soll.
-
-> **📝 Merke**
+> **💭 Reflexionsfrage 1.1**
 >
-> Der digitale Aktenordner ist nicht durch Dateien problematisch. Problematisch wird er, wenn die Kursstruktur Lernen auf Materialzugriff, Erledigung und Abgabe verkürzt.
-
----
-
-## 2.4 Analysefrage
-
-Welche Botschaft sendet Kursbeispiel A am stärksten?
-
-* [(X)] Lernen als Materialbearbeitung
-* [( )] Lernen als professionelle Entwicklung
-* [( )] Lernen als dialogische Urteilsbildung
-* [( )] Lernen als kollaborative Fallrekonstruktion
-
----
-
-## 2.5 Markieren Sie problematische Kursmerkmale
-
-Welche Merkmale verstärken die Logik „digitaler Aktenordner“?
-
-* [[X]] Materialien ohne fachliche Einordnung
-* [[X]] Aufgaben ohne sichtbaren Zusammenhang
-* [[ ]] Kurze Einführung in Ziel, Thema und Lernweg
-* [[X]] Reflexion nur als Upload ohne Rückmeldung
-* [[ ]] Peer-Feedback mit Kriterien
-* [[X]] Tests als dominierendes Strukturmerkmal
-* [[ ]] Fallvignette als Einstieg
-
----
-
-## 2.6 Reflexionsfrage
-
-> **💭 Reflexionsfrage 2.1**
+> Welche Deutung lag Ihnen beim ersten Lesen des Falls besonders nahe?
+> Schreiben Sie einen Satz:
 >
-> Wo ähnelt ein eigener Kurs oder ein bekannter Kurs diesem digitalen Aktenordner?
-> Beschreiben Sie eine Stelle konkret:
->
-> * Welche Elemente sind vorhanden?
-> * Welche Botschaft sendet die Struktur?
-> * Welche fachliche Absicht wird dadurch möglicherweise verdeckt?
+> „Meine erste Deutung war ..., weil ...“
 
 ---
 
-# Modul 3: Kursbeispiel B – Der sozialdidaktische Lernraum
+# Modul 2: Theorieimpuls – Der Eigensinn sozialpädagogischer Bildung
 
-> **🖼️ Bildhinweis für Modul 3**
-> **Dateiname:** `Modul3.png`
-> **Bildfunktion:** Das Bild zeigt den Gegenentwurf zum digitalen Aktenordner. Der Kurs soll als Lernweg sichtbar werden, der Situation, Theorie, Austausch, Feedback und professionelle Entscheidung verbindet.
-> **Bildbeschreibung / Alttext:** Ein Moodle-Kurs wird als klar strukturierter sozialdidaktischer Lernraum dargestellt. Die Kursabschnitte folgen einem Lernweg: Situation verstehen, Theorie nutzen, Austausch führen, Entscheidung begründen, Feedback erhalten und Transfer sichern. Lehrkräfte und Teilnehmende betrachten gemeinsam den Kurs und markieren Orientierung, Dialog, Reflexion und professionelle Entwicklung. Comic-Stil, klar, professionell und praxisnah.
+![Illustration Modul 2: Ein Team steht vor einer großen Tafel mit den Begriffen Beziehung, Unsicherheit, Deutungsmuster, Ambiguitätstoleranz, Machtverhältnisse und professionelle Subjektentwicklung. In der Mitte liegt ein Methodenplan, der durch Pfeile mit offenen pädagogischen Situationen verbunden ist. Die Darstellung zeigt den Übergang vom Methodendenken zur professionellen Urteilsfähigkeit. Comic-Stil, klar, theoriebezogen und praxisnah.](Modul2.png "Modul 2 – Der Eigensinn sozialpädagogischer Bildung")
 
-![Illustration Modul 3: Ein Moodle-Kurs wird als klar strukturierter sozialdidaktischer Lernraum dargestellt. Die Kursabschnitte folgen einem Lernweg: Situation verstehen, Theorie nutzen, Austausch führen, Entscheidung begründen, Feedback erhalten und Transfer sichern. Lehrkräfte und Teilnehmende betrachten gemeinsam den Kurs und markieren Orientierung, Dialog, Reflexion und professionelle Entwicklung. Comic-Stil, klar, professionell und praxisnah.](Modul3.png "Modul 3 – Der sozialdidaktische Lernraum")
+## 2.1 Was heißt „Eigensinn“?
 
-## 3.1 Kursbeispiel B
+Der Begriff Eigensinn verweist darauf, dass sozialpädagogische Bildung einer eigenen Logik folgt. Sie ist nicht einfach eine Anwendung allgemeiner Didaktik auf ein soziales Berufsfeld. Sie steht vor besonderen Anforderungen:
 
-Der gleiche Inhalt kann anders aufgebaut werden.
+* Sozialpädagogisches Handeln ist beziehungsgebunden.
+* Situationen sind offen und nicht vollständig kontrollierbar.
+* Fachkräfte handeln unter Unsicherheit.
+* Deutungen sind perspektivabhängig.
+* Institutionelle Regeln wirken immer mit.
+* Pädagogische Entscheidungen berühren Macht, Verantwortung und Teilhabe.
+* Professionalisierung betrifft nicht nur Wissen, sondern auch die Person, Haltung und Reflexionsfähigkeit.
 
-```ascii
-Kurs: Pädagogische Beziehungen gestalten
-
-Abschnitt 0: Orientierung
-- Worum geht es in diesem Modul?
-- Welche berufliche Situation steht im Zentrum?
-- Was bearbeiten Sie in welcher Reihenfolge?
-- Woran erkennen Sie eine fachlich tragfähige Bearbeitung?
-
-Abschnitt 1: Einstieg über Fallvignette
-- Fall: „Milan zieht sich aus der Gruppenarbeit zurück“
-- Erste Beobachtungen sammeln
-- Leitfrage: Was passiert hier pädagogisch?
-
-Abschnitt 2: Theorie als Analysewerkzeug
-- Beziehungsgestaltung
-- Deutungsmuster
-- Macht und Beteiligung
-- Ambiguitätstoleranz
-
-Abschnitt 3: Austausch und Perspektivwechsel
-- Forum: Drei mögliche Deutungen
-- Peer-Rückmeldung anhand von Kriterien
-
-Abschnitt 4: Professionelle Entscheidung
-- Aufgabe: begründete Handlungsoption formulieren
-- Bezug auf Theorie, Situation und Verantwortung
-
-Abschnitt 5: Feedback und Transfer
-- Rückmeldung erhalten
-- Reflexionsfrage bearbeiten
-- Transfer in eigene Praxis oder Lehre
-```
+Der Eigensinn besteht also nicht darin, dass sozialpädagogische Bildung besonders „weich“ oder „praktisch“ wäre. Er besteht darin, dass sie mit Situationen arbeitet, in denen fachliches Wissen, subjektive Deutung, institutionelle Ordnung und Beziehung gleichzeitig wirksam sind.
 
 ---
 
-## 3.2 Implizite Botschaften dieses Kursraums
+## 2.2 Vom Methodendenken zur Urteilsfähigkeit
 
-| Kursmerkmal                                 | Mögliche Botschaft                                      |
-| ------------------------------------------- | ------------------------------------------------------- |
-| Der Kurs beginnt mit Orientierung.          | „Sie können den Lernweg nachvollziehen.“                |
-| Eine Situation steht am Anfang.             | „Fachliches Lernen beginnt an beruflicher Komplexität.“ |
-| Theorie wird nach dem Fall eingeführt.      | „Theorie hilft, Situationen differenzierter zu lesen.“  |
-| Austausch ist fest eingeplant.              | „Fachliches Urteil entsteht im Perspektivwechsel.“      |
-| Feedback ist sichtbar.                      | „Qualität entwickelt sich durch Rückmeldung.“           |
-| Abschluss ist eine begründete Entscheidung. | „Lernen zielt auf professionelle Verantwortung.“        |
+Eine methodische Frage lautet:
 
----
+> „Welche Methode passt zu diesem Thema?“
 
-## 3.3 Vergleich: Aktenordner oder Lernraum?
+Eine sozialdidaktische Frage lautet:
 
-| Kriterium     | Digitaler Aktenordner    | Sozialdidaktischer Lernraum              |
-| ------------- | ------------------------ | ---------------------------------------- |
-| Einstieg      | Materialsammlung         | Berufliche Situation und Orientierung    |
-| Theorie       | Datei oder Text          | Analysewerkzeug                          |
-| Aufgabe       | Erledigung               | fachliche Urteilsbildung                 |
-| Interaktion   | optional oder unsichtbar | didaktisch begründet                     |
-| Feedback      | nachgelagert             | Teil des Lernprozesses                   |
-| Verantwortung | kaum sichtbar            | fachlich ausdrücklich gerahmt            |
-| Lernbotschaft | „Arbeite ab.“            | „Verstehe, prüfe, entscheide begründet.“ |
+> „Welche Situation sollen Lernende fachlich deuten, welche Unsicherheit müssen sie bearbeiten und welche professionelle Entscheidung soll dadurch begründbar werden?“
+
+Das ist ein entscheidender Unterschied.
+
+| Methodische Perspektive                   | Sozialdidaktische Perspektive                              |
+| ----------------------------------------- | ---------------------------------------------------------- |
+| Welche Methode aktiviert die Gruppe?      | Welche fachliche Irritation trägt den Lernprozess?         |
+| Welche Aufgabe lässt sich gut bearbeiten? | Welche berufliche Entscheidung wird vorbereitet?           |
+| Wie strukturiere ich den Ablauf?          | Welche Deutungsmuster werden sichtbar und bearbeitbar?     |
+| Wie sichere ich Ergebnisse?               | Wie entsteht begründete professionelle Urteilsfähigkeit?   |
+| Wie bleibt die Gruppe arbeitsfähig?       | Wie werden Beziehung, Macht und Verantwortung reflektiert? |
 
 ---
 
-## 3.4 Wahr oder falsch?
+## 2.3 Ambiguitätstoleranz
+
+Ambiguitätstoleranz meint die Fähigkeit, Mehrdeutigkeit, Unsicherheit und Widersprüche auszuhalten, ohne vorschnell zu vereinfachen. In sozialpädagogischen Situationen ist diese Fähigkeit zentral.
+
+Im Fall Milan könnten gleichzeitig mehrere Aspekte zutreffen:
+
+* Er verweigert sich teilweise.
+* Er formuliert eine fachlich relevante Kritik.
+* Er schützt sich möglicherweise vor Bloßstellung.
+* Er hat Praxiserfahrungen, die er nicht geordnet einbringen kann.
+* Die Gruppe erlebt ihn als störend.
+* Die Lehrkraft fühlt sich in ihrer Planung infrage gestellt.
+* Die institutionelle Erwartung lautet dennoch: Beteiligung ist erforderlich.
+
+Professionelle Urteilsfähigkeit besteht darin, diese Mehrdeutigkeit nicht zu übergehen.
+
+---
+
+## 2.4 Machtverhältnisse
+
+Pädagogische Situationen sind nie machtfrei. Lehrkräfte bewerten, strukturieren, sprechen zu, unterbrechen, geben Aufgaben, setzen Fristen und definieren Anforderungen. Auch Gruppen üben Macht aus, etwa durch Zustimmung, Ausschluss, Ironie oder Leistungsdruck.
+
+Im Fall Milan wirken mindestens vier Machtachsen:
+
+1. Lehrkraft und Studierender,
+2. Gruppe und einzelnes Gruppenmitglied,
+3. institutionelle Leistungsanforderung und subjektive Beteiligungsbereitschaft,
+4. Praxiserfahrung und schulische Theoriearbeit.
+
+Wer diese Machtverhältnisse ignoriert, deutet den Fall zu einfach.
+
+---
+
+## 2.5 Professionelle Subjektentwicklung
+
+Sozialpädagogische Bildung betrifft die Person. Das heißt nicht, dass Unterricht therapeutisch wird. Es heißt: Lernende entwickeln ein professionelles Selbstverhältnis. Sie müssen eigene Erfahrungen, Vorannahmen, Abwehrreaktionen, Wertungen und Deutungsmuster erkennen können.
+
+Auch Lehrkräfte sind Teil dieser Dynamik. Die Frage lautet nicht nur:
+
+> „Was ist mit Milan los?“
+
+Sondern auch:
+
+> „Was löst Milan in mir aus, und wie beeinflusst das meine pädagogische Entscheidung?“
+
+---
+
+## 2.6 Wahr oder falsch?
 
 Bewerten Sie die Aussagen.
 
-* [(X)] Ein sozialdidaktischer Lernraum macht sichtbar, warum eine Aufgabe fachlich bedeutsam ist.
-* [( )] Ein Kurs ist sozialdidaktisch gut, wenn möglichst viele Aktivitäten eingebaut sind.
-* [(X)] Theorie kann in Moodle so gerahmt werden, dass sie als Analysewerkzeug erfahrbar wird.
-* [(X)] Austausch braucht eine fachliche Funktion und darf nicht nur dekorativ eingebaut werden.
-* [( )] Ein digitaler Aktenordner ist immer falsch und darf nie verwendet werden.
+* [(X)] Sozialpädagogische Situationen sind häufig mehrdeutig und können nicht vollständig über Methodenpläne gesteuert werden.
+* [( )] Professionelle Urteilsfähigkeit bedeutet, möglichst schnell eine eindeutige Lösung zu finden.
+* [(X)] Machtverhältnisse wirken auch dann, wenn die Beteiligten freundlich und wertschätzend miteinander sprechen.
+* [(X)] Subjektentwicklung meint, dass Lernende eigene Deutungsmuster fachlich reflektieren lernen.
+* [( )] Ambiguitätstoleranz bedeutet, Entscheidungen dauerhaft zu vermeiden.
 
 ---
 
-## 3.5 Mini-Aufgabe: Einen Abschnitt umbauen
+# Modul 3: Analyse – Subjekt, Theorie, Institution
 
-Wählen Sie einen Abschnitt aus Kursbeispiel A und formulieren Sie ihn in Richtung Lernraum um.
+![Illustration Modul 3: Drei Analyseebenen werden als verbundenes Arbeitsboard dargestellt: subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen. Eine Lehrkraft, eine Fortbildnerin und Studierende rekonstruieren gemeinsam den Fall Milan. Karten zeigen Beobachtungen, mögliche Deutungen, Machtachsen und Entscheidungsszenarien. Comic-Stil, strukturiert, professionell und analytisch.](Modul3.png "Modul 3 – Subjekt, Theorie und Institution analysieren")
+
+## 3.1 Rekonstruktionsraster
+
+Nutzen Sie das folgende Raster für die Fallvignette. Es arbeitet mit drei Ebenen:
+
+1. subjektive Anteile,
+2. theoretische Perspektiven,
+3. institutionelle Bedingungen.
+
+Diese Ebenen sind nicht getrennt. Sie wirken gleichzeitig.
+
+| Analyseebene                    | Leitfrage                                                                                                     | Anwendung auf den Fall |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| **Subjektive Anteile**          | Welche Erfahrungen, Emotionen, Deutungsmuster oder Schutzbewegungen könnten bei den Beteiligten wirksam sein? |                        |
+| **Theoretische Perspektiven**   | Welche fachlichen Begriffe oder Modelle helfen, die Situation nicht vorschnell zu bewerten?                   |                        |
+| **Institutionelle Bedingungen** | Welche Regeln, Rollen, Anforderungen, Bewertungslogiken oder Erwartungen prägen die Situation?                |                        |
+| **Beziehungsdynamik**           | Wie verändert Milans Verhalten die Beziehung zwischen Lehrkraft, Gruppe und ihm selbst?                       |                        |
+| **Machtverhältnisse**           | Wer kann hier was entscheiden, bewerten, sichtbar machen oder sanktionieren?                                  |                        |
+| **Professionelle Entscheidung** | Welche Handlung wäre fachlich begründbar, ohne die Situation zu vereinfachen?                                 |                        |
+
+---
+
+## 3.2 Theorieanker für die Fallanalyse
+
+Sie können die Situation aus unterschiedlichen theoretischen Perspektiven lesen. Keine Perspektive erklärt alles. Jede Perspektive macht bestimmte Aspekte sichtbar und andere weniger sichtbar.
+
+| Theorieanker                            | Was wird sichtbar?                                                                                    | Risiko einer Verkürzung                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Professionelle Beziehungsgestaltung** | Milan stellt nicht nur eine Aufgabe infrage, sondern auch die Beziehung zur Lehrkraft und zur Gruppe. | Der Konflikt wird nur als Beziehungsproblem gelesen.                |
+| **Deutungsmusteranalyse**               | Milan bringt eine Vorstellung von Praxis ein: „In Einrichtungen läuft es sowieso unterschiedlich.“    | Seine Aussage wird vorschnell als Widerstand abgewertet.            |
+| **Ambiguitätstoleranz**                 | Die Situation bleibt mehrdeutig und verlangt ein Aushalten von Unsicherheit.                          | Die Lehrkraft wartet zu lange und verliert Struktur.                |
+| **Machtkritische Perspektive**          | Beteiligung, Bewertung und Gruppendruck erzeugen Machtwirkungen.                                      | Jede Steuerung wird als problematisch gelesen.                      |
+| **Subjektorientierung**                 | Milans Erfahrung, Unsicherheit oder Abwehr wird als Teil des Lernprozesses betrachtet.                | Die Anforderung an fachliche Beteiligung wird zu stark relativiert. |
+| **Institutionelle Perspektive**         | Unterricht, Bewertung, Zeitdruck und Curriculumanforderungen strukturieren die Situation.             | Die Person verschwindet hinter Regeln und Abläufen.                 |
+
+---
+
+## 3.3 Entscheidungsszenarien
+
+Die Lehrkraft hat mehrere Handlungsmöglichkeiten. Keine ist automatisch richtig. Entscheidend ist die Begründung.
+
+| Möglichkeit                           | Chance                                              | Risiko                                               |
+| ------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| Milan direkt zur Mitarbeit auffordern | Klare Erwartung, Schutz der Gruppenarbeitsfähigkeit | Beschämung, Eskalation, Verengung auf Disziplin      |
+| Milans Aussage fachlich aufnehmen     | Seine Kritik wird als Deutung sichtbar              | Gruppe könnte dies als Belohnung für Störung erleben |
+| Kurze Unterbrechung mit Metareflexion | Situation wird für alle lernrelevant                | Methode wird unterbrochen, Zeitdruck steigt          |
+| Einzelgespräch nach der Arbeitsphase  | Beziehungsschutz, differenzierte Klärung            | Die Gruppe bleibt mit Irritation allein              |
+| Gruppe selbst weiterarbeiten lassen   | Selbstorganisation bleibt erhalten                  | Ausschlussdynamik kann sich verstärken               |
+
+---
+
+## 3.4 Drag-the-Words: Professionelle Urteilsfähigkeit
+
+Ergänzen Sie den Text.
+
+Professionelle Urteilsfähigkeit entsteht, wenn pädagogische Situationen nicht vorschnell vereindeutigt werden. Sie verbindet subjektive [[Deutungsmuster]], theoretische [[Perspektiven]], institutionelle [[Bedingungen]], reflektierte [[Machtverhältnisse]] und die Fähigkeit, unter [[Unsicherheit]] begründet zu handeln.
+
+---
+
+## 3.5 Analyseauftrag
+
+Formulieren Sie eine fachlich begründete Entscheidung für den Fall Milan.
+
+Nutzen Sie diese Satzstruktur:
+
+```markdown
+Ich würde in der Situation zunächst ...
+
+Meine Begründung lautet:
+1. Auf der subjektiven Ebene ...
+2. Auf der theoretischen Ebene ...
+3. Auf der institutionellen Ebene ...
+4. Mit Blick auf Machtverhältnisse ...
+5. Mit Blick auf professionelle Verantwortung ...
+
+Anschließend würde ich ...
+```
+
+---
+
+# Modul 4: Reflexion – Professionelle Annahmen irritieren
+
+![Illustration Modul 4: Eine Lehrkraft sitzt an einem Tisch mit Reflexionskarten. Auf den Karten stehen typische Annahmen wie „Widerstand ist Störung“, „Gruppenarbeit fördert automatisch Perspektivwechsel“ und „Klare Regeln lösen Beteiligungsprobleme“. Einige Karten sind mit Fragezeichen markiert. Im Hintergrund ist der Fall Milan als kleine Szene sichtbar. Comic-Stil, ruhig, nachdenklich und handlungsorientiert.](Modul4.png "Modul 4 – Professionelle Annahmen irritieren")
+
+## 4.1 Warum Irritation wichtig ist
+
+Sozialdidaktik arbeitet nicht nur mit Wissenserweiterung. Sie arbeitet auch mit Irritation. Eine Irritation entsteht, wenn eine vertraute Annahme nicht mehr trägt.
+
+Beispiele:
+
+* „Wer nicht mitarbeitet, ist unmotiviert.“
+* „Gruppenarbeit fördert automatisch Perspektivwechsel.“
+* „Praxisbezug macht Unterricht immer relevanter.“
+* „Klare Regeln lösen Beteiligungsprobleme.“
+* „Widerstand muss möglichst schnell reduziert werden.“
+* „Theorie überzeugt, wenn sie gut erklärt wird.“
+
+Solche Annahmen sind nicht einfach falsch. Sie sind aber oft zu glatt. Sie verdecken die Mehrdeutigkeit sozialpädagogischer Situationen.
+
+---
+
+## 4.2 Reflexionsauftrag: Welche Annahme wurde irritiert?
+
+Beantworten Sie die folgende Frage schriftlich:
+
+> **Welche eigene professionelle Annahme wurde durch den Fall Milan irritiert?**
 
 Nutzen Sie diese Struktur:
 
 ```markdown
-## Neuer Abschnittstitel
-[Der Abschnittstitel benennt nicht nur ein Material, sondern eine Lernhandlung.]
+# Reflexion: Irritierte professionelle Annahme
 
-### Orientierung
-[Was ist das Ziel dieses Abschnitts?]
+## Meine ursprüngliche Annahme
+Ich bin bisher davon ausgegangen, dass ...
 
-### Ausgangssituation
-[Welche berufliche oder pädagogische Situation steht im Zentrum?]
+## Irritation durch den Fall
+Der Fall irritiert diese Annahme, weil ...
 
-### Material
-[Welche Materialien helfen beim Verstehen?]
+## Neue fachliche Differenzierung
+Heute würde ich genauer unterscheiden zwischen ...
 
-### Aufgabe
-[Welche fachliche Handlung wird erwartet?]
+## Konsequenz für meine Lehre oder Fortbildung
+In künftigen Lernsettings werde ich stärker darauf achten, dass ...
 
-### Austausch
-[Wie entsteht Perspektivwechsel oder Rückfrage?]
-
-### Ergebnis
-[Was entsteht am Ende?]
-
-### Qualitätskriterien
-[Woran erkennt man eine fachlich tragfähige Bearbeitung?]
+## Offene Frage
+Ungeklärt bleibt für mich ...
 ```
 
 ---
 
-# Modul 4: Eigenanalyse – Den eigenen Moodle-Kurs lesen
+## 4.3 Selbstcheck: Reife professioneller Reflexion
 
-> **🖼️ Bildhinweis für Modul 4**
-> **Dateiname:** `Modul4.png`
-> **Bildfunktion:** Das Bild markiert den Wechsel von der Beispielanalyse zur Eigenanalyse. Zentral ist das Kriterienraster, mit dem die Teilnehmenden ihren eigenen Kurs auf implizite Lernbotschaften hin prüfen.
-> **Bildbeschreibung / Alttext:** Eine Lehrkraft, eine Schulleitung und eine Fortbildnerin analysieren einen eigenen Moodle-Kurs mit einem Kriterienraster. Auf dem Bildschirm ist eine Kursstartseite sichtbar. Daneben liegen Karten mit den Lernbotschaften Materialbearbeitung, Kontrolle, Selbststeuerung, Austausch und professionelle Entwicklung. Drei Veränderungsschritte werden auf Haftnotizen festgehalten. Comic-Stil, ruhig, analytisch und handlungsorientiert.
+Welche Aussagen zeigen eine differenzierte professionelle Reflexion?
 
-![Illustration Modul 4: Eine Lehrkraft, eine Schulleitung und eine Fortbildnerin analysieren einen eigenen Moodle-Kurs mit einem Kriterienraster. Auf dem Bildschirm ist eine Kursstartseite sichtbar. Daneben liegen Karten mit den Lernbotschaften Materialbearbeitung, Kontrolle, Selbststeuerung, Austausch und professionelle Entwicklung. Drei Veränderungsschritte werden auf Haftnotizen festgehalten. Comic-Stil, ruhig, analytisch und handlungsorientiert.](Modul4.png "Modul 4 – Den eigenen Moodle-Kurs lesen")
-
-## 4.1 Vorbereitung
-
-Öffnen Sie einen eigenen Moodle-Kurs oder einen Kurs, den Sie gut kennen. Arbeiten Sie möglichst nicht mit dem idealen Kurs, sondern mit einem realen Kurs. Gerade dort wird sichtbar, welche Routinen, Zwänge und unausgesprochenen Annahmen die digitale Gestaltung prägen.
-
-Prüfen Sie zuerst die Kursstartseite. Entscheidend ist der erste Eindruck.
+* [[X]] „Ich merke, dass ich Widerstand häufig zuerst als Störung lese und erst später als mögliche fachliche Irritation.“
+* [[ ]] „Solche Studierenden müssen einfach klarer geführt werden.“
+* [[X]] „Ich muss zwischen Beziehungsschutz, Arbeitsfähigkeit der Gruppe und fachlicher Anforderung genauer unterscheiden.“
+* [[X]] „Meine Methode war nicht falsch, aber sie hat eine Spannung sichtbar gemacht, die ich didaktisch aufnehmen muss.“
+* [[ ]] „Wenn die Regeln von Anfang an klar sind, entstehen solche Situationen nicht.“
+* [[X]] „Die Situation zeigt, dass professionelle Steuerung auch bedeutet, Mehrdeutigkeit kurzzeitig auszuhalten.“
 
 ---
 
-## 4.2 Kriterienraster: Welche Botschaft sendet mein Kurs?
+## 4.4 Transfer in den eigenen Arbeitskontext
 
-Nutzen Sie das Raster als Analyseinstrument. Tragen Sie Ihre Einschätzung nicht in LiaScript ein, sondern kopieren Sie das Raster in ein eigenes Dokument oder in Ihr Notizfeld.
+Wählen Sie eine der folgenden Rollenperspektiven.
 
-| Kriterium                      | Leitfrage                                                                       | Beobachtung | Einschätzung            |
-| ------------------------------ | ------------------------------------------------------------------------------- | ----------- | ----------------------- |
-| **Orientierung**               | Erkennen Lernende innerhalb von drei Minuten, worum es geht und was zu tun ist? |             | niedrig / mittel / hoch |
-| **Lernlogik**                  | Folgt der Kurs einer fachlich begründeten Reihenfolge?                          |             | niedrig / mittel / hoch |
-| **Materialfunktion**           | Wird sichtbar, wozu Materialien gebraucht werden?                               |             | niedrig / mittel / hoch |
-| **Aufgabenqualität**           | Fordern Aufgaben nur Erledigung oder fachliche Urteilsbildung?                  |             | niedrig / mittel / hoch |
-| **Interaktion**                | Gibt es Orte für Austausch, Rückfragen, Peer-Feedback oder Perspektivwechsel?   |             | niedrig / mittel / hoch |
-| **Kontrolle**                  | Dominiert Nachweis, Test, Frist oder Bewertung?                                 |             | niedrig / mittel / hoch |
-| **Selbststeuerung**            | Werden Lernende in ihrer Planung unterstützt?                                   |             | niedrig / mittel / hoch |
-| **Feedback**                   | Ist Rückmeldung Teil des Lernwegs oder nur nachgelagert?                        |             | niedrig / mittel / hoch |
-| **Professionelle Entwicklung** | Wird sichtbar, welche fachliche Verantwortung aufgebaut wird?                   |             | niedrig / mittel / hoch |
-| **Barrierearmut**              | Sind Sprache, Navigation, Dateiformate und Zugänge möglichst klar?              |             | niedrig / mittel / hoch |
+### Für Lehrkräfte
 
----
+Welche Situation aus Ihrem Unterricht zeigt, dass eine Methode fachlich sinnvoll geplant war, aber in der konkreten Interaktion anders wirkte als erwartet?
 
-## 4.3 Diagnose: Welche Lernbotschaft dominiert?
+### Für Fort- und Weiterbildner:innen
 
-Wählen Sie die stärkste Botschaft Ihres Kurses.
+Wie können Sie in Fortbildungen Räume schaffen, in denen Teilnehmende nicht nur Methoden kennenlernen, sondern eigene Deutungsmuster prüfen?
 
-* [( )] Mein Kurs sendet vor allem: Lernen als Materialbearbeitung.
-* [( )] Mein Kurs sendet vor allem: Lernen als Kontrolle.
-* [( )] Mein Kurs sendet vor allem: Lernen als Selbststeuerung.
-* [( )] Mein Kurs sendet vor allem: Lernen als Austausch.
-* [( )] Mein Kurs sendet vor allem: Lernen als professionelle Entwicklung.
+### Für Referendar:innen
 
-> **Hinweis:**
-> Es gibt hier keine automatisch richtige Antwort. Entscheidend ist, ob die Botschaft zu Ihrem fachlichen Anspruch passt.
+Welche Planungsroutine hilft Ihnen, neben Lernzielen und Methoden auch Unsicherheit, Beziehung und institutionelle Erwartungen mitzudenken?
+
+### Für Lehramtsstudierende
+
+Welche Vorstellung von „gutem Unterricht“ wird durch sozialpädagogische Bildung komplizierter?
 
 ---
 
-## 4.4 Vertiefungsfragen
+# Abschluss: Von der Methode zur professionellen Urteilsfähigkeit
 
-Beantworten Sie mindestens drei Fragen schriftlich.
-
-1. Welche Kursstruktur unterstützt Orientierung?
-2. Wo wird Lernen auf Erledigung reduziert?
-3. Wo ist Kontrolle fachlich sinnvoll und wo wird sie dominant?
-4. Wo entsteht echter Austausch?
-5. Wo bleibt Austausch nur Behauptung?
-6. Wo wird Theorie als Werkzeug genutzt?
-7. Wo wird professionelle Verantwortung sichtbar?
-8. Welche Barriere entsteht durch Sprache, Dateiformate oder Navigation?
-9. Welche Kursentscheidung würden Lernende vermutlich anders bewerten als Lehrkräfte?
-10. Welche Botschaft soll der Kurs künftig stärker senden?
-
----
-
-## 4.5 Kopiervorlage: Kursdiagnose
-
-```markdown
-# Kursdiagnose: Welche Botschaften sendet mein Moodle-Kurs?
-
-## Kurs / Bereich
-[Name des Kurses]
-
-## Erste Wahrnehmung
-Was sehen Lernende in den ersten drei Minuten?
-
-## Dominante Lernbotschaft
-Mein Kurs sendet aktuell vor allem die Botschaft:
-[Materialbearbeitung / Kontrolle / Selbststeuerung / Austausch / professionelle Entwicklung]
-
-## Belege
-Diese Einschätzung stütze ich auf folgende Beobachtungen:
-1. [...]
-2. [...]
-3. [...]
-
-## Widerspruch
-Folgender Widerspruch zwischen fachlichem Anspruch und Kursgestaltung wird sichtbar:
-[...]
-
-## Stärken des Kurses
-1. [...]
-2. [...]
-3. [...]
-
-## Kritische Punkte
-1. [...]
-2. [...]
-3. [...]
-
-## Drei Veränderungsschritte
-1. [...]
-2. [...]
-3. [...]
-```
-
----
-
-## 4.6 Selbstcheck: Qualität der Kursanalyse
-
-Welche Aussagen zeigen eine tragfähige Analyse?
-
-* [[X]] „Der Kurs ist übersichtlich, aber er zeigt noch nicht, warum die Aufgaben fachlich bedeutsam sind.“
-* [[ ]] „Der Kurs sieht modern aus, also passt die Lernstruktur.“
-* [[X]] „Die Tests sind sinnvoll, aber sie dominieren aktuell die Lernbotschaft zu stark.“
-* [[X]] „Das Forum ist vorhanden, braucht aber eine präzisere fachliche Funktion.“
-* [[ ]] „Mehr Material würde den Kurs automatisch verbessern.“
-* [[X]] „Der Einstieg sollte stärker über eine berufliche Situation führen.“
-
----
-
-# Abschluss: Drei Veränderungsschritte festlegen
-
-> **🖼️ Bildhinweis für den Abschluss**
-> **Dateiname:** `Abschluss.png`
-> **Bildfunktion:** Das Bild bündelt den Transfer. Es zeigt, dass die Teilnehmenden am Ende keine abstrakte Theorie behalten sollen, sondern drei konkrete Schritte für einen eigenen Moodle-Kurs festlegen.
-> **Bildbeschreibung / Alttext:** Eine Lehrkraft sitzt mit einem Moodle-Kursplan, einem Kriterienraster und drei Haftnotizen am Tisch. Auf den Haftnotizen stehen Orientierung stärken, Austausch klären und professionelle Entscheidung sichtbar machen. Im Hintergrund ist der Moodle-Kurs vom Aktenordner zum Lernraum weiterentwickelt. Comic-Stil, ruhig, klar und praxisnah.
-
-![Illustration Abschluss: Eine Lehrkraft sitzt mit einem Moodle-Kursplan, einem Kriterienraster und drei Haftnotizen am Tisch. Auf den Haftnotizen stehen Orientierung stärken, Austausch klären und professionelle Entscheidung sichtbar machen. Im Hintergrund ist der Moodle-Kurs vom Aktenordner zum Lernraum weiterentwickelt. Comic-Stil, ruhig, klar und praxisnah.](Abschluss.png "Abschluss – Drei Veränderungsschritte festlegen")
+![Illustration Abschluss: Eine Lehrkraft sitzt mit einer rekonstruierten pädagogischen Situation, einer Analysekarte und einem Reflexionsbogen am Tisch. Im Hintergrund ist ein Lernraum sichtbar, in dem Beziehung, Unsicherheit, Theorie, Machtverhältnisse und professionelle Verantwortung miteinander verbunden sind. Die Szene zeigt den Transfer vom Fallverstehen zur professionellen Urteilsfähigkeit. Comic-Stil, ruhig, klar und praxisnah.](Abschluss.png "Abschluss – Von der Methode zur professionellen Urteilsfähigkeit")
 
 ## Rückblick
 
-Sie haben in diesem Kurs fünf zentrale Bewegungen bearbeitet:
+Sie haben in diesem Kurs vier Schritte bearbeitet:
 
-1. Sie haben Moodle-Kurse nicht nur als technische Räume, sondern als pädagogische Erfahrungsräume gelesen.
-2. Sie haben implizite Lernbotschaften sichtbar gemacht.
-3. Sie haben den digitalen Aktenordner vom sozialdidaktischen Lernraum unterschieden.
-4. Sie haben einen eigenen Kurs mit einem Kriterienraster geprüft.
-5. Sie formulieren nun drei konkrete Veränderungsschritte.
+1. Sie haben eine pädagogische Situation nicht vorschnell technisch oder methodisch gedeutet.
+2. Sie haben den Eigensinn sozialpädagogischer Bildung als Arbeit an Beziehung, Unsicherheit, Deutung, Macht und Verantwortung verstanden.
+3. Sie haben subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen rekonstruiert.
+4. Sie haben eine eigene professionelle Annahme irritiert und fachlich neu sortiert.
 
 ---
 
-## Abschlussaufgabe: Drei Schritte für Ihren Kurs
+## Abschlussaufgabe: Eine eigene Situation rekonstruieren
 
-Formulieren Sie drei realistische Veränderungsschritte für Ihren Moodle-Kurs.
+Wählen Sie eine reale oder anonymisierte pädagogische Situation aus Unterricht, Praxisbegleitung, Fortbildung oder Studium.
 
-Achten Sie darauf: Ein guter Veränderungsschritt ist konkret, prüfbar und in begrenzter Zeit erreichbar.
+Nutzen Sie die folgende Vorlage.
 
 ```markdown
-# Drei Veränderungsschritte für meinen Moodle-Kurs
+# Rekonstruktion einer pädagogischen Situation
 
-## Veränderungsschritt 1: Orientierung stärken
-Ich verändere ...
-Damit wird für Lernende sichtbarer ...
-Ich erkenne die Verbesserung daran, dass ...
+## 1. Kurze Situationsbeschreibung
+Was ist geschehen? Beschreiben Sie knapp und möglichst beobachtungsnah.
 
-## Veränderungsschritt 2: Austausch fachlich klären
-Ich verändere ...
-Damit entsteht ...
-Ich erkenne die Verbesserung daran, dass ...
+## 2. Erste spontane Deutung
+Wie habe ich die Situation zunächst verstanden?
 
-## Veränderungsschritt 3: Professionelle Entwicklung sichtbar machen
-Ich verändere ...
-Damit wird ...
-Ich erkenne die Verbesserung daran, dass ...
+## 3. Subjektive Anteile
+Welche Erfahrungen, Gefühle, Erwartungen oder Deutungsmuster könnten bei den Beteiligten wirksam gewesen sein?
+
+## 4. Theoretische Perspektiven
+Welche Begriffe, Modelle oder fachlichen Perspektiven helfen, die Situation genauer zu lesen?
+
+## 5. Institutionelle Bedingungen
+Welche Regeln, Rollen, Fristen, Bewertungslogiken oder organisationalen Erwartungen haben die Situation geprägt?
+
+## 6. Machtverhältnisse
+Wer konnte in der Situation was entscheiden, ermöglichen, begrenzen oder bewerten?
+
+## 7. Professionelle Urteilsfähigkeit
+Welche Entscheidung wäre fachlich begründbar und verantwortbar?
+
+## 8. Irritierte Annahme
+Welche eigene professionelle Annahme wurde irritiert?
+
+## 9. Nächster Entwicklungsschritt
+Was verändert sich in meiner Planung, Begleitung oder Reflexion?
 ```
-
----
-
-## Abschlussreflexion
-
-> **💭 Reflexionsfrage**
->
-> Welche Botschaft soll Ihr Moodle-Kurs künftig stärker senden?
->
-> Formulieren Sie einen Satz:
->
-> „Mein Kurs soll stärker zeigen, dass Lernen hier ...“
 
 ---
 
@@ -662,26 +533,27 @@ Ich erkenne die Verbesserung daran, dass ...
 
 ### Frage 1
 
-Warum ist der digitale Aktenordner sozialdidaktisch problematisch?
+Warum ist sozialpädagogisches Handeln nicht vollständig standardisierbar?
 
-* [( )] Weil Dateien grundsätzlich nicht in Moodle genutzt werden sollten.
-* [(X)] Weil Materialien ohne erkennbare Lernlogik Lernen auf Zugriff, Erledigung und Abgabe verkürzen können.
-* [( )] Weil nur interaktive Aktivitäten fachlich wertvoll sind.
-* [( )] Weil ein Kurs ohne Videos nicht zeitgemäß ist.
+* [( )] Weil pädagogische Fachkräfte keine klaren Methoden brauchen.
+* [(X)] Weil pädagogische Situationen durch Beziehung, Subjektivität, Unsicherheit, Macht, Institution und Verantwortung geprägt sind.
+* [( )] Weil jede Einrichtung völlig unabhängig von fachlichen Standards arbeitet.
+* [( )] Weil Theorie in der Praxis keine Bedeutung hat.
 
 ---
 
 ### Frage 2
 
-Welche Botschaften können Moodle-Kurse senden?
+Welche Begriffe gehören zum Kern dieses Kurses?
 
-* [[X]] Lernen als Materialbearbeitung
-* [[X]] Lernen als Kontrolle
-* [[X]] Lernen als Selbststeuerung
-* [[X]] Lernen als Austausch
-* [[X]] Lernen als professionelle Entwicklung
-* [[ ]] Lernen als reine Dekoration
-* [[ ]] Lernen als technische Pflichtübung ohne pädagogische Bedeutung
+* [[X]] Beziehung
+* [[X]] Unsicherheit
+* [[X]] Deutungsmuster
+* [[X]] Ambiguitätstoleranz
+* [[X]] Machtverhältnisse
+* [[X]] professionelle Subjektentwicklung
+* [[ ]] Methodenrezept
+* [[ ]] technische Bedienlogik
 
 ---
 
@@ -689,53 +561,47 @@ Welche Botschaften können Moodle-Kurse senden?
 
 Ergänzen Sie den Satz.
 
-Ein Moodle-Kurs wird zum sozialdidaktischen Lernraum, wenn er nicht nur Materialien bereitstellt, sondern Orientierung [[schafft]], Theorie als Werkzeug [[nutzt]], Austausch fachlich [[rahmt]] und professionelle Entwicklung [[sichtbar]] macht.
+Der Eigensinn sozialpädagogischer Bildung zeigt sich darin, dass Lernende nicht nur Methoden anwenden, sondern Situationen fachlich [[deuten]], Mehrdeutigkeit [[aushalten]], Machtverhältnisse [[reflektieren]] und professionelle Entscheidungen [[begründen]] lernen.
 
 ---
 
-## 📦 Kopiervorlage: Kriterienraster für Moodle-Kurse
+## 📦 Kopiervorlage: Analysekarte „Eigensinn sozialpädagogischer Bildung“
 
 ```markdown
-# Kriterienraster: Moodle-Kurse als pädagogische Erfahrungsräume lesen
+# Analysekarte: Der Eigensinn sozialpädagogischer Bildung
 
-## 1. Orientierung
-Erkennen Lernende schnell, wo sie sind, was zu tun ist und warum es bedeutsam ist?
+## Fall / Situation
+[Kurze Beschreibung]
 
-## 2. Lernlogik
-Folgt der Kurs einer fachlich begründeten Reihenfolge?
+## Was irritiert?
+[Welche Erwartung wird gestört?]
 
-## 3. Materialfunktion
-Wird sichtbar, welche Funktion Materialien im Lernprozess haben?
+## Beziehung
+[Welche Beziehungsdynamik wird sichtbar?]
 
-## 4. Aufgabenqualität
-Fordern Aufgaben nur Erledigung oder fachliche Urteilsbildung?
+## Unsicherheit
+[Was ist offen, mehrdeutig oder nicht eindeutig entscheidbar?]
 
-## 5. Interaktion
-Gibt es Orte für Austausch, Rückfragen, Peer-Feedback und Perspektivwechsel?
+## Deutungsmuster
+[Welche Annahmen über Menschen, Praxis, Lernen oder Professionalität wirken mit?]
 
-## 6. Kontrolle
-Welche Rolle spielen Tests, Fristen, Bewertungen und Nachweise?
+## Machtverhältnisse
+[Wer kann was bestimmen, bewerten, ermöglichen oder begrenzen?]
 
-## 7. Selbststeuerung
-Wie unterstützt der Kurs Planung, Entscheidung und Orientierung?
+## Institutionelle Bedingungen
+[Welche Regeln, Rollen, Zeiten, Prüfungen oder Strukturen prägen die Situation?]
 
-## 8. Feedback
-Wo erhalten Lernende Rückmeldung, die den nächsten Schritt ermöglicht?
+## Theorieperspektive
+[Welche Begriffe oder Modelle helfen, die Situation differenzierter zu verstehen?]
 
-## 9. Professionelle Entwicklung
-Wo wird sichtbar, welche fachliche Verantwortung aufgebaut wird?
+## Professionelle Entscheidung
+[Welche Handlung ist fachlich begründbar?]
 
-## 10. Barrierearmut
-Sind Sprache, Navigation, Dateiformate und Zugänge klar und möglichst zugänglich?
+## Irritierte professionelle Annahme
+[Welche eigene Annahme wurde infrage gestellt?]
 
-## Dominante Lernbotschaft
-Der Kurs sendet aktuell vor allem die Botschaft:
-[...]
-
-## Drei Veränderungsschritte
-1. [...]
-2. [...]
-3. [...]
+## Nächster Schritt
+[Was verändert sich in meiner Planung, Begleitung oder Reflexion?]
 ```
 
 ---
@@ -745,11 +611,9 @@ Der Kurs sendet aktuell vor allem die Botschaft:
 * Bobe, A. (2024). Berufsfelddidaktik Sozialpädagogik. Impulse für die Lehrkräftebildung. *Journal für LehrerInnenbildung, 24*(2), 56–65.
 * Karsten, M.-E. (2003). Sozialdidaktik – Zum Eigensinn didaktischer Reflexion in den Berufsausbildungen für soziale und sozialpädagogische (Frauen-)berufe. In A. Schlüter (Hrsg.), *Aktuelles und Querliegendes zur Didaktik und Curriculumentwicklung* (S. 350–374). Janus Presse.
 * Küls, H. (2011). Sozialdidaktik und Lehrplanentwicklung. Niedersächsisches Institut für frühkindliche Bildung und Entwicklung.
-* MoodleDocs. (2025). *Course formats*. https://docs.moodle.org/en/Course_formats
-* MoodleDocs. (2025). *Activities*. https://docs.moodle.org/en/Activities
-* MoodleDocs. (2025). *Forum activity*. https://docs.moodle.org/en/Forum_activity
-* MoodleDocs. (2025). *Assignment activity*. https://docs.moodle.org/en/Assignment_activity
-* MoodleDocs. (2025). *Feedback activity*. https://docs.moodle.org/en/Feedback_activity
+* Müller, B. (2017). *Sozialpädagogisches Können: Ein Lehrbuch zur multiperspektivischen Fallarbeit*. Lambertus.
+* Rabe-Kleberg, U. (1999). Professionalität und Geschlechterverhältnis. Oder: Was ist „semi“ an traditionellen Frauenberufen? In A. Combe & W. Helsper (Hrsg.), *Pädagogische Professionalität* (S. 276–302). Suhrkamp.
+* Thole, W. (2012). Die Soziale Arbeit – Praxis, Theorie, Forschung und Ausbildung. In W. Thole (Hrsg.), *Grundriss Soziale Arbeit* (4. Aufl., S. 19–70). VS Verlag.
 
 ---
 
@@ -757,7 +621,8 @@ Der Kurs sendet aktuell vor allem die Botschaft:
 
 > **Abschlussgedanke**
 >
-> Moodle-Kurse sind mehr als digitale Arbeitsflächen. Sie zeigen, wie eine Schule Lernen versteht. Wer einen Kurs sozialdidaktisch liest, erkennt nicht nur Materialien und Aufgaben, sondern die pädagogische Botschaft des Raums.
+> Sozialdidaktik wird dort praktisch, wo sie Methoden nicht abwertet, aber ihren Anspruch begrenzt. Die zentrale Frage lautet nicht: „Welche Methode passt?“
+> Die präzisere Frage lautet: „Welche professionelle Urteilsfähigkeit wird in dieser Situation erforderlich?“
 
 ```
 ```
