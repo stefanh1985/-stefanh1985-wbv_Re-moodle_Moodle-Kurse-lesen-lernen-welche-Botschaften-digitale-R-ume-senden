@@ -1,4 +1,3 @@
-````markdown
 <!--
 author: Stefan Hierholzer
 email:
@@ -738,46 +737,6 @@ Der Kurs sendet aktuell vor allem die Botschaft:
 2. [...]
 3. [...]
 ```
-
----
-
-## 🧩 H5P-Idee für das Buch oder den Moodle-Kurs
-
-**H5P-Format:** Course Presentation oder Branching Scenario
-
-**Titel:** „Aktenordner oder Lernraum? Moodle-Kurse lesen lernen“
-
-**Aufbau:**
-
-1. Zwei Screenshots oder schematische Kursbeispiele.
-2. Analysefragen zu impliziten Lernbotschaften.
-3. Entscheidungsaufgabe: Welche Veränderung verbessert die sozialdidaktische Qualität?
-4. Direktes Feedback zu jeder Auswahl.
-5. Abschluss mit drei Transferfeldern:
-
-   * Orientierung stärken,
-   * Austausch klären,
-   * professionelle Entwicklung sichtbar machen.
-
-**Didaktischer Zweck:**
-Die Teilnehmenden sollen nicht nur sagen, ob ein Kurs übersichtlich ist. Sie sollen erkennen, welche Lernkultur der Kurs nahelegt und wie diese fachlich weiterentwickelt werden kann.
-
----
-
-## 📘 Hinweis für einen vertiefenden LiaScript-Kurs
-
-An dieser Stelle wäre ein zusätzlicher Selbstlernkurs sinnvoll:
-
-**„Vom Moodle-Aktenordner zum sozialdidaktischen Lernraum“**
-
-Mögliche Inhalte:
-
-* Kursstartseiten analysieren,
-* Lernwege sichtbar machen,
-* Aufgaben fachlich schärfen,
-* Austauschformate sinnvoll rahmen,
-* Feedbacklogiken planen,
-* Kriterien für professionelle Entwicklung in Moodle-Kursen beschreiben.
 
 ---
 
